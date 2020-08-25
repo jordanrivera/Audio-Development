@@ -1,0 +1,89 @@
+﻿  AboutComponent.cpp
+  VUMeter.cpp
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeterNeedle.h(30,61): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\Source\VUMeter.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeterNeedle.h(30,47): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\Source\VUMeter.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeterNeedle.h(38,42): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\VUMeter.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeterNeedle.h(39,23): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\VUMeter.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeterNeedle.h(40,64): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\VUMeter.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeterNeedle.h(41,55): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\VUMeter.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeter.h(28,46): warning C4305:  'initializing': truncation from 'double' to 'const float' (compiling source file ..\..\Source\VUMeter.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeter.cpp(17,36): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+  VUMeterBackground.cpp
+  TwoPoleAllpassFilter.cpp
+  OnePoleAllpassFilter.cpp
+  PluginProcessor.cpp
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeter.cpp(35,64): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeterNeedle.h(30,61): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeterNeedle.h(30,47): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeterNeedle.h(38,42): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeterNeedle.h(39,23): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeterNeedle.h(40,64): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeterNeedle.h(41,55): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeter.h(28,46): warning C4305:  'initializing': truncation from 'double' to 'const float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.h(51,18): warning C4996:  'juce::AudioProcessor::getInputChannelName': was declared deprecated (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Program Files\JUCE\modules\juce_audio_processors\processors\juce_AudioProcessor.h(1455): message :  see declaration of 'juce::AudioProcessor::getInputChannelName' (compiling source file ..\..\Source\PluginProcessor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.h(52,18): warning C4996:  'juce::AudioProcessor::getOutputChannelName': was declared deprecated (compiling source file ..\..\Source\PluginProcessor.cpp)
+C:\Program Files\JUCE\modules\juce_audio_processors\processors\juce_AudioProcessor.h(1456): message :  see declaration of 'juce::AudioProcessor::getOutputChannelName' (compiling source file ..\..\Source\PluginProcessor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginEditor.h(57,4): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginEditor.h(29,45): warning C4100:  'rotaryEndAngle': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginEditor.h(29,15): warning C4100:  'rotaryStartAngle': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginEditor.h(28,80): warning C4100:  'sliderPos': unreferenced formal parameter (compiling source file ..\..\Source\PluginProcessor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(94,15): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(95,17): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(96,26): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(175,51): warning C4100:  'index': unreferenced formal parameter
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(179,56): warning C4100:  'index': unreferenced formal parameter
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(184,72): warning C4100:  'newName': unreferenced formal parameter
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(184,51): warning C4100:  'index': unreferenced formal parameter
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(189,66): warning C4100:  'samplesPerBlock': unreferenced formal parameter
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(300,61): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(313,51): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(343,27): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(240,82): warning C4100:  'midiMessages': unreferenced formal parameter
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(419,48): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(427,51): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(2042,56): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(2042,56): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(2042,56): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(2042,56): warning C4244:             _Ty=double
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(2042,56): warning C4244:         ] (compiling source file ..\..\Source\PluginProcessor.cpp)
+  PluginEditor.cpp
+  BinaryData.cpp
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(71): message :  see reference to function template instantiation 'std::unique_ptr<Parameter,std::default_delete<_Ty>> std::make_unique<Parameter,juce::String&,juce::String,juce::String,juce::NormalisableRange<float>&,double,nullptr,nullptr,0>(juce::String &,juce::String &&,juce::String &&,juce::NormalisableRange<float> &,double &&,nullptr &&,nullptr &&)' being compiled
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(71): message :         with
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(71): message :         [
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(71): message :             _Ty=Parameter
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(71): message :         ]
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(71): message : \\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(343) : warning C4701: potentially uninitialized local variable 'ph' used
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(71): message : \\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.cpp(326) : warning C4701: potentially uninitialized local variable 'sc' used
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeterNeedle.h(30,61): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeterNeedle.h(30,47): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeterNeedle.h(38,42): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeterNeedle.h(39,23): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeterNeedle.h(40,64): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeterNeedle.h(41,55): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\VUMeter.h(28,46): warning C4305:  'initializing': truncation from 'double' to 'const float' (compiling source file ..\..\Source\PluginEditor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.h(51,18): warning C4996:  'juce::AudioProcessor::getInputChannelName': was declared deprecated (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Program Files\JUCE\modules\juce_audio_processors\processors\juce_AudioProcessor.h(1455): message :  see declaration of 'juce::AudioProcessor::getInputChannelName' (compiling source file ..\..\Source\PluginEditor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginProcessor.h(52,18): warning C4996:  'juce::AudioProcessor::getOutputChannelName': was declared deprecated (compiling source file ..\..\Source\PluginEditor.cpp)
+C:\Program Files\JUCE\modules\juce_audio_processors\processors\juce_AudioProcessor.h(1456): message :  see declaration of 'juce::AudioProcessor::getOutputChannelName' (compiling source file ..\..\Source\PluginEditor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginEditor.h(57,4): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginEditor.h(29,45): warning C4100:  'rotaryEndAngle': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginEditor.h(29,15): warning C4100:  'rotaryStartAngle': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+  include_juce_audio_basics.cpp
+  include_juce_audio_devices.cpp
+  include_juce_audio_formats.cpp
+  include_juce_audio_plugin_client_utils.cpp
+  include_juce_audio_processors.cpp
+  include_juce_audio_utils.cpp
+  include_juce_core.cpp
+  include_juce_cryptography.cpp
+  include_juce_data_structures.cpp
+  include_juce_events.cpp
+  include_juce_graphics.cpp
+  include_juce_gui_basics.cpp
+  include_juce_gui_extra.cpp
+  include_juce_opengl.cpp
+  include_juce_video.cpp
+\\Mac\Home\Desktop\Developing\Phaser\Source\PluginEditor.h(28,80): warning C4100:  'sliderPos': unreferenced formal parameter (compiling source file ..\..\Source\PluginEditor.cpp)
+  Phaser_SharedCode.vcxproj -> \\Mac\Home\Desktop\Developing\Phaser\Builds\VisualStudio2019\x64\Debug\Shared Code\Phaser.lib

@@ -1,0 +1,3 @@
+﻿  include_juce_audio_plugin_client_VST3.cpp
+     Creating library \\Mac\Home\Desktop\Developing\Phaser\Builds\VisualStudio2019\x64\Release\VST3\Phaser.lib and object \\Mac\Home\Desktop\Developing\Phaser\Builds\VisualStudio2019\x64\Release\VST3\Phaser.exp
+  Phaser_VST3.vcxproj -> \\Mac\Home\Desktop\Developing\Phaser\Builds\VisualStudio2019\x64\Release\VST3\Phaser.vst3
