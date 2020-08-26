@@ -1,0 +1,3 @@
+﻿  include_juce_audio_plugin_client_VST3.cpp
+     Creating library \\Mac\Home\Desktop\StereoWidener\Builds\VisualStudio2019\x64\Debug\VST3\StereoWidener.lib and object \\Mac\Home\Desktop\StereoWidener\Builds\VisualStudio2019\x64\Debug\VST3\StereoWidener.exp
+  StereoWidener_VST3.vcxproj -> \\Mac\Home\Desktop\StereoWidener\Builds\VisualStudio2019\x64\Debug\VST3\StereoWidener.vst3

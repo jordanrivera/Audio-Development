@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2019
+
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StereoWidener - VST3", "StereoWidener_VST3.vcxproj", "{A0FDBB9B-298E-3B49-8206-A0DBC959072C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{899EB161-D89C-90B0-A81D-DA1490011758} = {899EB161-D89C-90B0-A81D-DA1490011758}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StereoWidener - Shared Code", "StereoWidener_SharedCode.vcxproj", "{899EB161-D89C-90B0-A81D-DA1490011758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0FDBB9B-298E-3B49-8206-A0DBC959072C}.Debug|x64.ActiveCfg = Debug|x64
+		{A0FDBB9B-298E-3B49-8206-A0DBC959072C}.Debug|x64.Build.0 = Debug|x64
+		{A0FDBB9B-298E-3B49-8206-A0DBC959072C}.Release|x64.ActiveCfg = Release|x64
+		{A0FDBB9B-298E-3B49-8206-A0DBC959072C}.Release|x64.Build.0 = Release|x64
+		{899EB161-D89C-90B0-A81D-DA1490011758}.Debug|x64.ActiveCfg = Debug|x64
+		{899EB161-D89C-90B0-A81D-DA1490011758}.Debug|x64.Build.0 = Debug|x64
+		{899EB161-D89C-90B0-A81D-DA1490011758}.Release|x64.ActiveCfg = Release|x64
+		{899EB161-D89C-90B0-A81D-DA1490011758}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
